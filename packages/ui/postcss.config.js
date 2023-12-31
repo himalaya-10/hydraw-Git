@@ -1,0 +1,1 @@
+module.exports = require('eslint-config/postcss.config')
